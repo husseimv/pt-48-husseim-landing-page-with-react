@@ -1,0 +1,18 @@
+.icon__apple{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #17313e;
+    border: none;
+    font-size: 1.5rem;
+}
+
+.icon__google{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #17313e;
+    border: none;
+    font-size: 1.5rem;
+
+};
